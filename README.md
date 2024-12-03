@@ -1,2 +1,2 @@
-# rex-journey
+# david-journey
 just another repository
